@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RobotNinja15
+- 👋 Hi, I’m Kenneth
 - 👀 I’m interested in Networking(cisco)
 - 🌱 I’m currently learning python and C#
 - 📫 How to reach me - Onwubuyaken12@gmail.com

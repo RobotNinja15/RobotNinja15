@@ -2,7 +2,7 @@
 
 
 ## 🚀 About Me
-I am an Aspiring Network Engineer, learning python and Practicing how to build networks with Cisco Packet Tracer
+I am an Aspiring Network Engineer, learning python and Practicing how to build networks with Cisco Packet Tracer.
 
 
 ## 🔗 Links
@@ -23,6 +23,8 @@ I am an Aspiring Network Engineer, learning python and Practicing how to build n
 - 📫 How to reach me Onwubuyaken12@outlook.com 
 
 - 😄 Pronouns - He/Him.
+
+- 🎮 I enjoy playing video games, mostly fighting games.
 
 - 👀 I’m interested in Networking(cisco)
 

@@ -11,7 +11,7 @@ I am an Aspiring Network Engineer, learning python and Practicing how to build n
 [![Reddit](https://img.shields.io/badge/Reddit-EE4B2B?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/kenn3456/)
 
 
-## Other Common Github Profile Sections
+## Other
 - 👩‍💻 I'm currently working on a IPv4 Subnet calculator written in python.
 
 - 🧠 I'm currently in college learning IT(information Technology).

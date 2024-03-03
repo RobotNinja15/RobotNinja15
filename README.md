@@ -2,7 +2,7 @@
 
 
 ## 🚀 About Me
-I am an Aspiring Network Engineer, learning python and Practicing how to build networks with Cisco Packet Tracer.
+I am an Aspiring IT Technician, learning P5.js and learning how to make cool generative art with javascript
 
 
 ## 🔗 Links
@@ -13,30 +13,25 @@ I am an Aspiring Network Engineer, learning python and Practicing how to build n
 
 
 ## Personal
-- 👩‍💻 I'm currently working on a IPv4 Subnet calculator written in python.
+- 👩‍💻 I'm currently working on learning some generative art.
 
 - 🧠 I'm currently in college learning IT(information Technology).
 
-- 🤔 I'm looking for help with my python Project.
-
 - 💬 Ask me about Anything.
 
-- 📫 How to reach me Onwubuyaken12@outlook.com 
-
-- 😄 Pronouns - He/Him.
+- 📫 How to reach me Onwubuyaken12@gmail.com 
 
 - 🎮 I enjoy playing video games, mostly fighting games.
 
-- 👀 I’m interested in Networking(cisco)
+- 👀 I’m pretty interested in creative coding and graphics engineering.
 
 
 
 ## 🛠 Skills
-- Java, 
+- Javascript, 
 - HTML, 
 - Python, 
-- Flask,
-- Cisco IOS
+- P5.js
 
 
 <!---

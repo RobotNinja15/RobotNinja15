@@ -28,10 +28,11 @@ I am an Aspiring IT Technician, learning P5.js and learning how to make cool gen
 
 
 ## 🛠 Skills
-- Javascript, 
-- HTML, 
-- Python, 
-- P5.js
+- Javascript
+- HTML 
+- Python
+- C++
+- C
 
 
 <!---
